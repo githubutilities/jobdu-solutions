@@ -1,0 +1,5 @@
+# Mac OSX finder caches
+.DS_Store
+
+# executable
+a.out
